@@ -1,7 +1,7 @@
 # Bookmarklets
 Resource hungry browser extensions? Not today! Try bookmarklets
 ## Adding bookmarklets
-Go to "Add bookmark" and paste this as the URL.
+Go to "Add bookmark" and paste the bookmarklet code as the URL.
 ## Using bookmarklets
 Go to your desired webpage and hit the bookmark. JS magic!
 ## Index
